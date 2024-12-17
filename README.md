@@ -7,4 +7,4 @@
 </ul>
 
 <h3>Imagem:</h3>
-![Imagem da página inicial do projeto](URL_da_Imagem)
+<img src="https://github.com/sundaysadness/dicionario/blob/main/img_projeto)" alt="Imagem do projeto final")
