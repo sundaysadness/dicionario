@@ -6,5 +6,4 @@
   <li>Feito com o curos: "Front-End | Meu primeiro site responsivo" da PrograMaria.</li>
 </ul>
 
-<h3>Imagem:</h3>
-<img src="https://github.com/sundaysadness/dicionario/blob/main/img_projeto)" alt="Imagem do projeto final")
+
